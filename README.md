@@ -1,8 +1,9 @@
-# BinBVS
+# ARTEMIS
+ 
+> **A**lgorithm for **R**are-variant **T**rait **E**valuation using **M**odel-based **I**nference and **S**election
 
-**Binary-valued Bayesian variable selection**
 
-A python tool for performing Bayesian variable selection in a classification model for observations with binary features, applied primarily to rare-variant gene-level collapsing data from UK Biobank.
+**ARTEMIS** is Python-based tool for performing Bayesian variable selection in a classification model for observations with binary features, applied primarily to rare-variant gene-level collapsing data from UK Biobank.
 Demonstrated on a synthetic binary-valued dataset.
 
 Dependencies:
